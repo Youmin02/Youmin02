@@ -29,6 +29,7 @@ I'm interested in Computer Vision and Security, and I mainly work with 3D and im
 
 - **[DSU-POD](https://github.com/DSU-POD)**  
   Team project space for `sikdan-api` and `sikdan-front`.
+  📎 https://github.com/DSU-POD
 
 ---
 
