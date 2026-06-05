@@ -4,7 +4,7 @@ I'm an undergraduate student in the Department of Computer Software at Dong Seou
 
 I'm interested in Computer Vision and Security, and I mainly work with 3D and image-related projects.
 
-### Research Interests ☁️
+### Research Interests 
 
 - Computer Vision 🤖
 - Security 🔒
