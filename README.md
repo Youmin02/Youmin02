@@ -1,10 +1,10 @@
-##👋 Hi, I'm Yumin
+## 👋 Hi, I'm Yumin
 
 I'm an undergraduate student in the Department of Computer Software at Dong Seoul University.
 
 I'm interested in Computer Vision and Security, and I mainly work with 3D and image-related projects.
 
-##🌟 Research Interests 
+## 🌟 Research Interests 
 
 - Computer Vision 🤖
 - Security 🔒
@@ -13,13 +13,13 @@ I'm interested in Computer Vision and Security, and I mainly work with 3D and im
 
 ---
 
-##🎓 Education
+## 🎓 Education
 
 - **B.S. in Computer Software**, Dong Seoul University
 
 ---
 
-##📚 Projects 
+## 📚 Projects 
 
 - **[ShapeCraft](https://github.com/Youmin02/shapecraft)**  
   Exploring 3D modeling, image generation, and LLM-based pipelines.
@@ -32,7 +32,7 @@ I'm interested in Computer Vision and Security, and I mainly work with 3D and im
 
 ---
 
-##🔧 Skills 
+## 🔧 Skills 
 
 - Python
 - HTML
