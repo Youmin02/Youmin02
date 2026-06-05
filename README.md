@@ -1,4 +1,4 @@
-## Hi, I'm Youmin
+## Hi, I'm Yumin
 
 I'm an undergraduate student in the Department of Computer Software at Dong Seoul University.
 
