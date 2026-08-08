@@ -7,10 +7,10 @@ I'm interested in Computer Vision and Security, and I mainly work with 3D and im
 ## 🌟 Research Interests 
 
 - Computer Vision 🤖
-- Security 🔒
 - 3D Modeling 🧊
 - Image Processing 🌠
-
+- Security 🔒
+- Edge AI
 ---
 
 ## 🎓 Education
